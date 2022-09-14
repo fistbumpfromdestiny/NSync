@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">The Time</string>
+    <string name="txt_time">Username</string>
+    <string name="label_connection_btn">Connect/Disconnect</string>
+
+</resources>
